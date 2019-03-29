@@ -15,3 +15,8 @@ As a developer it is extremely important to demonstrate an understanding of data
   - A link to all relevant resources. This can include the software's site, a helpful tutorial site, a medium article, etc.
   
   Submit a link to your repository (including the README.md with paragraphs and links) to the slack channel.
+
+### Quick links:
+- Requirement: https://git.generalassemb.ly/sf-wdi-51/DS-Algo-Lightning-Learn/edit/master/README.md
+- DeadLine: 4/3 at 9AM
+- Presentation: 4/3 at 10:45 AM
