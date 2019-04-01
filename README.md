@@ -15,18 +15,18 @@ By the end of this lesson, you will be able to:
 * Recursion
 * Intro to Sorting Algorithms
 
-## Definition and Types of Search Algorithms ()
+## Definition and Types of Search Algorithms (Issac)
 
 Linear search algorithm
   - 
 Binary search algorithm 
   - works to find information efficiently and elegantly
 
-## Find code snippet and go over it ()
+## Find code snippet and go over it (Tristan)
 
-## Find use cases on Search algorithm in the world ()
+## Find use cases on Search algorithm in the world (Paris)
 
-## Find a good videos to watch for visual learners ()
+## Find a good videos to watch for visual learners (Heggy)
 - 
 ## Additional Resources
 - Check out [this article](https://medium.com/@codingfreak/binary-search-practice-problems-4c856cd9f26c) that outlines common interview questions related to binary search.
