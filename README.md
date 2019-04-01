@@ -26,12 +26,12 @@ Binary search algorithm
 
 ## Find use cases on Search algorithm in the world (Paris)
 
-## Find a good videos to watch for visual learners (Heggy)
+## Find a good videos to watch for visual learners (Heggy-done)
+  - Harvard cs50 Linear Search Tree [part 1/2](https://youtu.be/TwsgCHYmbbA)
+  - Harvard cs50 Binary Search Tree [part 2/2](https://youtu.be/T98PIp4omUA)
   - HackerRank [Binary Search](https://www.youtube.com/watch?v=P3YID7liBug)
   - Udacity Binary Search Tree [part 1/2](https://youtu.be/0VN5iwEyq4c)
   - Udacity Binary Search Tree [part 2/2](https://youtu.be/7WbRB7dSyvc)
-  - Harvard cs50 Linear Search Tree [part 1/2](https://youtu.be/TwsgCHYmbbA)
-  - Harvard cs50 Binary Search Tree [part 2/2](https://youtu.be/T98PIp4omUA)
   - LINUXANDCHILL [Binary Search Tree](https://youtu.be/92e5Ih4Chbk)
 
 ## Additional Resources
