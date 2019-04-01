@@ -27,13 +27,13 @@ Binary search algorithm
 ## Find use cases on Search algorithm in the world (Paris)
 
 ## Find a good videos to watch for visual learners (Heggy)
-  - [HackerRank Binary Search](https://www.youtube.com/watch?v=P3YID7liBug)
+  - HackerRank [Binary Search](https://www.youtube.com/watch?v=P3YID7liBug)
   - Udacity Binary Search Tree [part 1/2](https://youtu.be/0VN5iwEyq4c)
   - Udacity Binary Search Tree [part 2/2](https://youtu.be/7WbRB7dSyvc)
   - Harvard cs50 Linear Search Tree [part 1/2](https://youtu.be/TwsgCHYmbbA)
   - Harvard cs50 Binary Search Tree [part 2/2](https://youtu.be/T98PIp4omUA)
   - LINUXANDCHILL [Binary Search Tree](https://youtu.be/92e5Ih4Chbk)
-  
+
 ## Additional Resources
 - Check out [this article](https://medium.com/@codingfreak/binary-search-practice-problems-4c856cd9f26c) that outlines common interview questions related to binary search.
 - [More thoughts](http://blog.gainlo.co/index.php/2017/01/12/rotated-array-binary-search/) on how binary search appears in job interviews.
