@@ -17,9 +17,9 @@ By the end of this lesson, you will be able to:
 
 ## Definition and Types of Search Algorithms ()
 
-1) Linear search algorithm
+Linear search algorithm
   - 
-2) Binary search algorithm 
+Binary search algorithm 
   - works to find information efficiently and elegantly
 
 ## Find code snippet and go over it ()
