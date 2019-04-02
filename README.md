@@ -1,6 +1,9 @@
 # Search Algorithms
 ![](https://cdn.glitch.com/cb093bfd-142f-45b3-bdb4-52ff49e0a1c2%2FScreen%20Shot%202019-04-01%20at%203.24.22%20PM.png?1554157749846)
 
+## Team 5:
+Team Members:  Isaac, Tristan, Heggy, Paris
+
 ## Overview
 In this lesson, you'll learn how the search algorithm works to find information efficiently and elegantly.
 
