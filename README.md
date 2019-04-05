@@ -5,10 +5,10 @@
 
 Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored. Based on the type of search operation, these algorithms are generally classified into two categories:
 
-**Linear Search (Sequential Search):** 
+**Sequential Search (Linear Search):** 
 - The list or array is traversed sequentially and every element is checked.
 
-**Binary Search (Interval Search):** 
+**Interval Search (Binary Search):** 
 - Designed for searching in sorted data-structures. 
 - Much more efficient than Linear Search
   - Repeatedly target the center of the search structure.
