@@ -53,6 +53,6 @@ Binary search algorithm
 ## Credit:
 - GA [lesson](https://git.generalassemb.ly/software-engineering-immersive/SEI-Course-Materials/tree/master/6_computer-science-materials/algorithms/search-algorithms) plan 
 - Geek for Geeks [image](https://www.geeksforgeeks.org/searching-algorithms/)
-
+- Geek for Geeks Searching
 
 
