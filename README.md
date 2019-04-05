@@ -20,7 +20,7 @@ By the end of this lesson, you will be able to:
 
 ## Definition and Types of Search Algorithms (Issac)
 
-Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored. Based on the type of search operation, these algorithms are generally classified into two categories:
+> Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored. > Based on the type of search operation, these algorithms are generally classified into two categories:
 
 **Linear Search (Sequential Search):** In this, the list or array is traversed sequentially and every element is checked.
 
