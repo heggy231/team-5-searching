@@ -10,7 +10,8 @@ Searching Algorithms are designed to check for an element or retrieve an element
 
 **Binary Search (Interval Search):** 
 - Designed for searching in sorted data-structures. 
-- Much more efficient than Linear Search because they repeatedly target the center of the search structure and divide the search space in half.
+- Much more efficient than Linear Search
+  - Repeatedly target the center of the search structure and divide the search space in half.
 
 ## Team 5:
 Team Members:  Isaac, Tristan, Heggy, Paris
