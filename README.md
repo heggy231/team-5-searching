@@ -33,7 +33,7 @@ Binary search algorithm
 
 ## Code Snippet Binary Search(Tristan)
   
-
+![alt text](./code.png)
 ## Find use cases on Search algorithm in the world (Paris)
 
 ## Find a good videos to watch for visual learners (Heggy-done)
