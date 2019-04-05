@@ -31,7 +31,8 @@ Linear search algorithm
 Binary search algorithm 
   - works to find information efficiently and elegantly
 
-## Find code snippet and go over it (Tristan)
+## Code Snippet Binary Search(Tristan)
+  
 
 ## Find use cases on Search algorithm in the world (Paris)
 
