@@ -18,7 +18,7 @@ By the end of this lesson, you will be able to:
 * Recursion
 * Intro to Sorting Algorithms
 
-## Definition and Types of Search Algorithms (Issac)
+## Definition and Types of Search Algorithms
 
 Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored. Based on the type of search operation, these algorithms are generally classified into two categories:
 
